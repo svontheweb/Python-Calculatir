@@ -1,0 +1,6 @@
+# Ignore  files
+
+
+# Ignore virtual environment folder
+venv/ 
+.vscode/
